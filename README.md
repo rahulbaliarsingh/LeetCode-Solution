@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0066-plus-one) |
 ## Tree
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
