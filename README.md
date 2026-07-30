@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rahulbaliarsingh/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
